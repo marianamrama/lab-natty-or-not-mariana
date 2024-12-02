@@ -12,7 +12,10 @@ Este e-book de 3 páginas que fala um pouco sobre a história da caixa
 Utilizei o "ChatGPT" para resumir a história da CEF, o "Leonardo AI" foi usado para gerar imagens exclusivas para o e-book. Para concluir, a montagem final foi feita no Word.
 
 ## 🚀 Resultados
-O chatgpt pode ser muito útil para criar textos, porém a ia que cria imagens não funciona muito bem na minha opnião e definitivamente NÃO substitui o trabalho de um designer gráfico ou artista.
+O texto ficou bom, porém, a imagem gerada por IA não ficou boa
+
+## 💭 Reflexão 
+O chatgpt pode ser muito útil para criar textos, porém a ia que cria imagens não funciona muito bem na minha opnião e definitivamente NÃO substitui o trabalho de um designer gráfico ou artista. E o github é muito complicado de usar
 
 
 
